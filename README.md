@@ -1,6 +1,6 @@
 # keiko-corp
 Tutorial for ZTM Course on improving network performance\
-View the [Live Site](https://sheenagonzalez.io/keiko-corp) or view [Github Repo](https://github.com/sheenagonzalez/keiko-corp)
+View the [Live Site](https://sheenagonzalez.github.io/keiko-corp/) or view [Github Repo](https://github.com/sheenagonzalez/keiko-corp)
 
 ## Improvements
 Cropped and optimized images\
