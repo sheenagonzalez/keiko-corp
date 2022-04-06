@@ -1,5 +1,7 @@
 # keiko-corp
-Tutorial for ZTM Course on improving network performance
+Tutorial for ZTM Course on improving network performance\
+View at [Github Pages[ (https://sheenagonzalez.github.io/keiko-corp/)\
+or directly at [Github] (https://github.com/sheenagonzalez/keiko-corp/)
 
 ## Improvements
 Cropped and optimized images\
